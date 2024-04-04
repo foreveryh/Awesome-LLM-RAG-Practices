@@ -8,3 +8,4 @@
   * [\[索引相关\] 通过这三种索引方法改善 RAG Pipeline](cong-ling-gou-jian-gao-zhi-liang-de-rag-ying-yong/suo-yin-xiang-guan-tong-guo-zhe-san-zhong-suo-yin-fang-fa-gai-shan-rag-pipeline.md)
 * [RAG 是一个复杂的工程问题](rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/README.md)
   * [为什么RAG在生产环境中并不可靠](rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/wei-shi-mo-rag-zai-sheng-chan-huan-jing-zhong-bing-bu-ke-kao.md)
+  * [\[检索\]为什么 RAG 管道会失败？高级 RAG 模式 — 第 1 部分](rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md)
