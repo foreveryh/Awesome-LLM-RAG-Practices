@@ -18,8 +18,8 @@ Before we explore the strategies, let’s dissect the critical challenges that c
 (For common issues with retrieval, augmentation and generation that will result in suboptimal RAG performance please refer to my earlier post Why do RAG pipelines fail? Advanced RAG Patterns — Part1)\
 （有关检索、增强和生成的常见问题，这些问题将导致 RAG 性能欠佳，请参阅我之前的帖子 为什么 RAG 管道会失败？高级 RAG 模式 — 第 1 部分）。
 
-{% content-ref url="jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md" %}
-[jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md](jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md)
+{% content-ref url="../rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md" %}
+[jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md](../rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md)
 {% endcontent-ref %}
 
 1\. Retrieval Problems 检索问题：
