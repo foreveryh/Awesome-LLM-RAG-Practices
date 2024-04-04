@@ -9,3 +9,4 @@
 * [RAG 是一个复杂的工程问题](rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/README.md)
   * [为什么RAG在生产环境中并不可靠](rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/wei-shi-mo-rag-zai-sheng-chan-huan-jing-zhong-bing-bu-ke-kao.md)
   * [\[检索\]为什么 RAG 管道会失败？高级 RAG 模式 — 第 1 部分](rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/jian-suo-wei-shi-mo-rag-guan-dao-hui-shi-bai-gao-ji-rag-mo-shi-di-1-bu-fen.md)
+  * [\[综合\]如何提高 RAG 性能 — 高级 RAG 模式 — 第 2 部分](rag-shi-yi-ge-fu-za-de-gong-cheng-wen-ti/zong-he-ru-he-ti-gao-rag-xing-neng-gao-ji-rag-mo-shi-di-2-bu-fen.md)
